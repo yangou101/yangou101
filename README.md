@@ -1,4 +1,4 @@
-# Hi, I'm Yang Ou 👋
+# Hi,  👋
 
 I develop statistical methods for complex biomedical
 and public health data.
