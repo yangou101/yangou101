@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yang Ou 👋
 
-<!--
-**yangou101/yangou101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Biostatistics at Indiana University Bloomington.
 
-Here are some ideas to get you started:
+I develop statistical methods for complex biomedical
+and public health data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research interests
+- Bayesian modeling
+- Survival analysis
+- Functional data analysis
+- Measurement error and endogeneity
+
+### 💻 Tools
+`R` · `Stan` · `LaTeX`
