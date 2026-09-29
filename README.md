@@ -1,7 +1,5 @@
 # Hi, I'm Yang Ou 👋
 
-PhD student in Biostatistics at Indiana University Bloomington.
-
 I develop statistical methods for complex biomedical
 and public health data.
 
